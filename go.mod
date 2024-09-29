@@ -1,4 +1,4 @@
-module github.com/ignatiusratemo26/clinic_booking
+module github.com/ignatiusratemo26/go-backend
 
 go 1.23.1
 

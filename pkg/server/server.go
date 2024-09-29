@@ -1,8 +1,9 @@
 package server
 
 import (
-	"go-backend/pkg/handlers"
 	"net/http"
+
+	"github.com/ignatiusratemo26/go-backend/pkg/services/handlers"
 
 	"github.com/gorilla/mux"
 )
